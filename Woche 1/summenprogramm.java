@@ -1,6 +1,6 @@
 public class summenprogramm {
     public static int summe(int n) {
-        if (n <= 1) {
+        if (n <= 1) { //ergänzung um unendliche schleife zu unterbinden
             return 1;
         }
         else {
