@@ -3,6 +3,7 @@ Informatik Tutorium
 
 ## Tutorium Plan
 1. Einführung
+2. Mathematische Formeln in Ablaufplan und in Java realisieren
 
 
 ## Links
