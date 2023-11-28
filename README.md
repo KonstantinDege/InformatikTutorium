@@ -7,6 +7,7 @@ Informatik Tutorium
 	* Algorithmus SS2021
 	* Taylorreihe von e 
 	* Algorithmus WS13/14
+3. Spielfigurklasse erstellen
 
 ## Links
 
