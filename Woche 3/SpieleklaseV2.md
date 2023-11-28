@@ -1,11 +1,5 @@
-In einem Computerspiel sind einfache Spielfiguren durch sechs Attribute beschrieben: Die X- und Y-Koordinate der Figur auf dem Spielfeld, Schutzschildpunkte und Gesundheitspunkte der Figur sowie Angriffs- und Verteidigungswert der Figur.
-Greift eine Figur eine andere an, so wird die Stärke des Angriffs als Quotient aus dem Angriffswert des Angreifers und dem Abstand der beiden Figuren
-gebildet. Überschreitet dieser Wert den Verteidigungswert der angegriffenen
-Figur, so wird die Differenz aus Stärke des Angriffs und Verteidigungswert von
-den Schutzschildpunkte der Figur abgezogen, sind diese bereits bei 0 Punkten
-angekommen, wird der Rest von den Gesundheitspunkten abgezogen. Schutzschildpunkte können zwischen den Spielfiguren übertragen werden.
-Schreiben Sie eine JAVA-Klasse, die eine Figur repräsentiert und folgende
-Methoden enthält:
+In einem Computerspiel sind einfache Spielfiguren durch sechs Attribute beschrieben: Die X- und Y-Koordinate der Figur auf dem Spielfeld, Schutzschildpunkte und Gesundheitspunkte der Figur sowie Angriffs- und Verteidigungswert der Figur. Greift eine Figur eine andere an, so wird die Stärke des Angriffs als Quotient aus dem Angriffswert des Angreifers und dem Abstand der beiden Figuren gebildet. Überschreitet dieser Wert den Verteidigungswert der angegriffenen Figur, so wird die Differenz aus Stärke des Angriffs und Verteidigungswert von den Schutzschildpunkte der Figur abgezogen, sind diese bereits bei 0 Punkten
+angekommen, wird der Rest von den Gesundheitspunkten abgezogen. Schutzschildpunkte können zwischen den Spielfiguren übertragen werden. Schreiben Sie eine JAVA-Klasse, die eine Figur repräsentiert und folgende Methoden enthält:
 * Parameterloser Konstruktor, der eine Figur am Punkt [0,0] mit dem Gesundheitswert 10.000 und dem Schutzschildwert 10.000 sowie dem Angriffswert 150 und dem Verteidigungswert 100 erzeugt.
 * Konstruktor mit Übergabe aller Attribute als Werte.
 * Berechnen des Abstandes zu einer anderen Figur.
