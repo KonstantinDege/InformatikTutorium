@@ -8,7 +8,7 @@ public class Aufgabe1 {
 
     public static float berechne2(float q, int n,float a) {
         int i = 1;
-        while (i<n) {
+        while (i<n) { // i < n, da wir a1 wissen, und somit nur i = 2 bis i = n auswerten, und das rechnen wir -1 um eine einfachere condition haben
             a = a*q;
             i++;
         }
