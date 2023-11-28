@@ -5,6 +5,7 @@ Implementieren Sie eine Klasse Figur mit den Attributen
 * Leben
 * Stärke
 * Verteidigung
+  
 Implementieren Sie die Methoden
 * Parameterloser Konstruktor: Erzeugt eine Figur am Punkt (0,0) mit den Leben 100,
 Stärke 15 und Verteidigung 10.
