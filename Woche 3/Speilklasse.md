@@ -1,6 +1,6 @@
 Informatik Tutorium
 
-Implementieren Sie eine Klasse Figur mit den Attributen (Attribute als Privat
+Implementieren Sie eine Klasse Figur mit den Attributen (Attribute als Privat)
 * Standpunkt (Datentyp Punkt)
 * Leben
 * Stärke
@@ -17,4 +17,4 @@ Schreiben Sie eine Main-Methode, die überprüft, ob Angreifen richtig implement
 Optional:
 * Schreiben Sie eine Methode Abstand, welche die Distanz zweier Figuren vermisst.
 * Geben Sie der Klasse Figur nun ein Attribut Reichweite und schreiben Sie eine neue Methode Angreifen, welche zusätzlich prüft, ob die Zielfigur sich in der Angriffsreichweite befindet.
-* weitere Methode: Übertragen von n Heilpunkten von einer Spielfigur an eine andere, wenn in Heilreichweite
+* weitere Methode: Übertragen von n Lebenspunkten von einer Spielfigur an eine andere, wenn in Heilreichweite
