@@ -35,7 +35,7 @@ public class Spielfigur {
     public int getStaerke() {
         return staerke;
     }
-    public void setStaerke(int staerke) {
+    public void setStaerke(int staerke) throws Exception {
         if (staerke < 0) throw new Exception("Stärke must be greater then 0"); 
         this.staerke = staerke;
     }
@@ -81,6 +81,5 @@ public class punkt {
     }
     public void setY(int y) {
         this.y = y;
-    }
-    
+    } 
 }
