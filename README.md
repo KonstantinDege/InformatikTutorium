@@ -10,7 +10,9 @@ Informatik Tutorium
 3. Klassen erstellen
 	* Spielklasse
 	* Hausaufgabe: Bruchklasse
-
+4. Klassen erstellen 2
+	* Voxel Klasse
+	
 ## Links
 
 * https://www.w3schools.com/java/default.asp
