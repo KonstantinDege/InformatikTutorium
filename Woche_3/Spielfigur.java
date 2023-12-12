@@ -1,3 +1,4 @@
+package Woche_3;
 public class Spielfigur {
     private int staerke = 15;
     private int verteidigung = 10;
@@ -61,25 +62,4 @@ public class Spielfigur {
         figurB.setLeben(lebenB);
     }
 }
-public class punkt {
-    private int x;
-    private int y;
 
-    public punkt(int x, int y) {
-        setX(x);
-        setY(y);
-    }
-
-    public int getX() {
-        return x;
-    }
-    public void setX(int x) {
-        this.x = x;
-    }
-    public int getY() {
-        return y;
-    }
-    public void setY(int y) {
-        this.y = y;
-    } 
-}

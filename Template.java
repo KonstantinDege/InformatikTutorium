@@ -17,7 +17,7 @@ public class Template {
         return b;
     }
     public void setB(String b) throws Exception {
-        if (b == null || b.isBlank() || kontonummer.isEmpty()) throw new Exception("needs to be a valid string"); 
+        if (b == null || b.isBlank() || b.isEmpty()) throw new Exception("needs to be a valid string"); 
         this.b = b;
     }
     
