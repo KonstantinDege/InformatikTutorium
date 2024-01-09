@@ -9,8 +9,8 @@ public class Buch extends Medien {
         Seiten = seiten;
     }
     public Buch(String titel, String autor, String verlag, String standort, String identNummer, int Seiten) throws Exception {
-        super(titel, autor, verlag, standort, identNummer);
-        setSeiten(Seiten);
+        super(titel, autor, verlag, standort, identNummer); //Alle Attribute der Hauptklasse
+        setSeiten(Seiten); // Atribute der speziefischen Klasse
     }
     
 }
