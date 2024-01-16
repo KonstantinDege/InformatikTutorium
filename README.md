@@ -13,6 +13,8 @@ Informatik Tutorium
 4. Klassen erstellen 2
 	* Voxel Klasse
 5. Datenmodell erstellen
+6. Klausur WS23
+7. Klausur WS23 beenden und Fragerunde
    
 ## Links
 
